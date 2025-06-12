@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BombermanL01",
+			"Path": "C:\\Users\\hpvic\\OneDrive\\Documents\\Unreal Projects\\BombermanL01\\Source\\BombermanL01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BombermanL01Editor",
+			"Path": "C:\\Users\\hpvic\\OneDrive\\Documents\\Unreal Projects\\BombermanL01\\Source\\BombermanL01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

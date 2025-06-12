@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BombermanL01-7034.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\BombermanL01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\Bloque.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\BombermanL01.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\BombermanL01Character.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\BombermanL01GameMode.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\Muro.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\Bloque.gen.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\BombermanL01.init.gen.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\BombermanL01Character.gen.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\BombermanL01GameMode.gen.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\Muro.gen.cpp.obj"
+"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\Default.rc2.res"
+/OUT:"C:\Users\hpvic\OneDrive\Documents\Unreal Projects\BombermanL01\Intermediate\Build\Win64\UE4Editor\Development\BombermanL01\UE4Editor-BombermanL01-7034.lib"
